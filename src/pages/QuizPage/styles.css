@@ -1,0 +1,23 @@
+.homepageContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-attachment: fixed;
+    background-color: gray;
+}
+
+.textFormat {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-attachment: fixed;
+    padding: 1%;
+}
+
+.buttonFormat {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-attachment: fixed;
+    padding: 2%;
+}

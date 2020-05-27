@@ -1,0 +1,14 @@
+.homepageContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: gray;
+    height: 80vh;
+    /* margin: 5% auto; */
+}
+
+.textFormat {
+    color: white;
+    padding: 2%;
+    font-size: 30px;
+}
